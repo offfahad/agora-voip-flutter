@@ -1,0 +1,33 @@
+# Environment variables
+.env
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Build artifacts
+dist/
+build/
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Miscellaneous
+coverage/
