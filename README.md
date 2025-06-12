@@ -32,7 +32,7 @@ The MVP allows callers to request audio calls, notifies listeners via push notif
 
 ### General
 - Uses Agora VOIP SDK for audio calls (no PSTN).
-- Backend generates tokens due to client-side errors (`AgoraRtcException(-17)`).
+- Backend generates tokens due to client-side errors (`Agora: Error: ErrorCodeType.errTokenExpired,`).
 - Firebase for auth, Firestore, and FCM.
 
 ## Setup
