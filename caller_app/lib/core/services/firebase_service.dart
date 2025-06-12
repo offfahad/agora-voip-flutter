@@ -1,4 +1,4 @@
-import 'package:caller_app/core/constants/api_constants.dart.dart';
+import 'package:caller_app/core/constants/api_constants.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/foundation.dart';

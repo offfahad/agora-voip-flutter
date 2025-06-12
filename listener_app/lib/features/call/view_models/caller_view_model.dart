@@ -5,7 +5,7 @@ import '../../../core/services/agora_token_service.dart';
 import '../../../core/services/firebase_service.dart';
 import '../../../core/services/agora_service.dart';
 import '../../../core/services/notification_service.dart';
-import '../../../core/constants/api_constants.dart.dart';
+import '../../../core/constants/api_constants.dart';
 
 class CallerViewModel with ChangeNotifier {
   final FirebaseService _firebaseService = FirebaseService();

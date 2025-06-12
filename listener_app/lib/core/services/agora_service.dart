@@ -1,7 +1,7 @@
 import 'package:agora_rtc_engine/agora_rtc_engine.dart';
 import 'package:flutter/foundation.dart';
 
-import '../constants/api_constants.dart.dart';
+import '../constants/api_constants.dart';
 
 class AgoraService {
   late RtcEngine _engine;

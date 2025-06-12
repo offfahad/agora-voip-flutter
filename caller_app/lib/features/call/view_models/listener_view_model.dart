@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/foundation.dart';
-import '../../../core/constants/api_constants.dart.dart';
+import '../../../core/constants/api_constants.dart';
 import '../../../core/services/agora_token_service.dart';
 import '../../../core/services/firebase_service.dart';
 import '../../../core/services/agora_service.dart';

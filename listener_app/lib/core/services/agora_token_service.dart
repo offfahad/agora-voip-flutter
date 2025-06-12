@@ -51,7 +51,7 @@
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
-import 'package:listener_app/core/constants/api_constants.dart.dart';
+import 'package:listener_app/core/constants/api_constants.dart';
 
 class AgoraTokenService {
   final String _apiUrl = ApiConstants.agoraTokenApiUrl;
